@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pabonsaha
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
+- 👀 I’m a software engineer
 - 💞️ I’m looking to collaborate on web development
-- 📫 reach me on facebook fb.com/poppabon
+- 📫 reach me on linkedin linkedin.com/in/pabonsaha
 
 <!---
 pabonsaha/pabonsaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
